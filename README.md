@@ -1,5 +1,5 @@
 # archlinux-dotfiles
-My Arch Linux using [Arco Linux](https://arcolinux.com/) setup's dotfiles of:
+My Arch Linux (using [Arco Linux](https://arcolinux.com/)) setup's dotfiles of:
 
 1. [DWM](https://dwm.suckless.org/)
 2. [Neovim](https://neovim.io/)
